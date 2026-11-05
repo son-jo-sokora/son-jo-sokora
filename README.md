@@ -1,7 +1,7 @@
 ### son-jo-sokora
 
 メインフレーム（IBM Z / z/OS）を学ぶためのコンテンツと、言語を作って調べる道具を作っています。
-哲学のテキストを計算できる模型にして読む研究も進めています（いまは非公開）。
+哲学のテキストを計算できる模型にして読む遊びも進めています（いまは非公開）。
 
 *Learning tools for IBM Z / z/OS mainframes (Japanese UI), and a browser-based conlang generator (Japanese / English).*
 
