@@ -1,6 +1,6 @@
 ### son-jo-sokora
 
-メインフレーム（IBM Z / z/OS）を学ぶための、ブラウザだけで動くシミュレータを作っています。
+メインフレーム（IBM Z / z/OS）を学ぶためのコンテンツを作っています。
 哲学のテキストを計算できる模型にして読む研究も進めています（いまは非公開）。
 
 *Browser-based learning tools for IBM Z / z/OS mainframes (Japanese UI).*
